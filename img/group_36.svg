@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167" height="167" viewBox="0 0 167 167">
+  <defs>
+    <filter id="Ellipse_9" x="0" y="0" width="167" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-color="#ff0606" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.439" y1="0.119" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d8d8d8" stop-opacity="0.31"/>
+    </linearGradient>
+    <filter id="Ellipse_10" x="8" y="8" width="152" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-color="#ff0606" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_36" data-name="Group 36" transform="translate(-880 -4268)">
+    <g id="Group_20" data-name="Group 20" transform="translate(165 1795)">
+      <g transform="matrix(1, 0, 0, 1, 715, 2473)" filter="url(#Ellipse_9)">
+        <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="56.5" cy="56.5" r="56.5" transform="translate(24 22)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 715, 2473)" filter="url(#Ellipse_10)">
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="49" cy="49" r="49" transform="translate(32 30)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <text id="_2" data-name="2" transform="translate(944 4367)" fill="#e70000" font-size="57" font-family="Figtree-Bold, Figtree" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>
