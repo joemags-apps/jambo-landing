@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167" height="167" viewBox="0 0 167 167">
+  <defs>
+    <filter id="Ellipse_9" x="0" y="0" width="167" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-color="#ff0606" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.439" y1="0.119" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d8d8d8" stop-opacity="0.31"/>
+    </linearGradient>
+    <filter id="Ellipse_10" x="8" y="8" width="152" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-color="#ff0606" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-538 -2013)">
+    <g id="Group_10" data-name="Group 10" transform="translate(-177 -460)">
+      <g transform="matrix(1, 0, 0, 1, 715, 2473)" filter="url(#Ellipse_9)">
+        <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="56.5" cy="56.5" r="56.5" transform="translate(24 22)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 715, 2473)" filter="url(#Ellipse_10)">
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="49" cy="49" r="49" transform="translate(32 30)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="microphone" transform="translate(602.394 2068.074)">
+      <path id="Path_23" data-name="Path 23" d="M16.106,32.211a8.785,8.785,0,0,0,8.785-8.785V8.785a8.785,8.785,0,0,0-17.57,0V23.426A8.785,8.785,0,0,0,16.106,32.211ZM30.747,17.57H29.283a1.464,1.464,0,0,0-1.464,1.464v4.392A11.727,11.727,0,0,1,14.935,35.083C8.85,34.489,4.392,29.018,4.392,22.9V19.034A1.464,1.464,0,0,0,2.928,17.57H1.464A1.464,1.464,0,0,0,0,19.034v3.675c0,8.2,5.854,15.515,13.909,16.626V42.46H8.785a1.464,1.464,0,0,0-1.464,1.464v1.464a1.464,1.464,0,0,0,1.464,1.464H23.426a1.464,1.464,0,0,0,1.464-1.464V43.924a1.464,1.464,0,0,0-1.464-1.464H18.3V39.37A16.121,16.121,0,0,0,32.211,23.426V19.034A1.464,1.464,0,0,0,30.747,17.57Z" fill="#e70000"/>
+    </g>
+  </g>
+</svg>
