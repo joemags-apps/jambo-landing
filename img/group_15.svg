@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="74" viewBox="0 0 74 74">
+  <g id="Group_15" data-name="Group 15" transform="translate(-1478 -3066)">
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="37" cy="37" r="37" transform="translate(1478 3066)" fill="#f2f0fb"/>
+    <g id="phone-call" transform="translate(1498.491 3086.491)">
+      <path id="Path_33" data-name="Path 33" d="M20.7,19.451,18.663,22a21.518,21.518,0,0,1-7.645-7.643l2.549-2.039a1.732,1.732,0,0,0,.5-2.055L11.744,5.03a1.732,1.732,0,0,0-2.019-.974L5.3,5.2A1.742,1.742,0,0,0,4.017,7.127,25.7,25.7,0,0,0,25.89,29a1.742,1.742,0,0,0,1.924-1.285l1.147-4.423a1.734,1.734,0,0,0-.973-2.019L22.757,18.95a1.731,1.731,0,0,0-2.055.5Z" transform="translate(0)" fill="none" stroke="#ed1111" stroke-linecap="square" stroke-width="2"/>
+      <path id="Path_34" data-name="Path 34" d="M35,5A10.722,10.722,0,0,1,45.722,15.722" transform="translate(-17.151 -0.553)" fill="none" stroke="#ed1111" stroke-linecap="square" stroke-width="2"/>
+      <path id="Path_35" data-name="Path 35" d="M40.361,22.361A5.361,5.361,0,0,0,35,17" transform="translate(-17.151 -7.193)" fill="none" stroke="#ed1111" stroke-linecap="square" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
