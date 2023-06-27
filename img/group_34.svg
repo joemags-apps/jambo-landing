@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="121" viewBox="0 0 121 121">
+  <defs>
+    <filter id="Ellipse_9" x="0" y="0" width="121" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-color="#ff0606" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.439" y1="0.119" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d8d8d8" stop-opacity="0.31"/>
+    </linearGradient>
+    <filter id="Ellipse_10" x="5" y="5" width="112" height="112" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-color="#ff0606" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_34" data-name="Group 34" transform="translate(-1642.667 -9791.667)">
+    <g id="Group_33" data-name="Group 33" transform="translate(1667 9814)">
+      <g transform="matrix(1, 0, 0, 1, -24.33, -22.33)" filter="url(#Ellipse_9)">
+        <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="33.5" cy="33.5" r="33.5" transform="translate(24 22)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -24.33, -22.33)" filter="url(#Ellipse_10)">
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="29" cy="29" r="29" transform="translate(29 27)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="arrow-up" transform="translate(1690.446 9837.445)">
+      <path id="Path_36" data-name="Path 36" d="M12,24.776V5" transform="translate(-2.112 -5)" fill="none" stroke="#e70000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_37" data-name="Path 37" d="M5,14.888,14.888,5l9.888,9.888" transform="translate(-5 -5)" fill="none" stroke="#e70000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
